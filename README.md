@@ -5,7 +5,8 @@ https://gamejutsu.app/
 
 [Contracts](https://github.com/ChainHackers/gamejutsu-contracts)  
 [Demo games](https://github.com/ChainHackers/gamejutsu-demos)  
-[Subgraph](https://github.com/ChainHackers/gamejutsu-subgraph)
+[Subgraph](https://github.com/ChainHackers/gamejutsu-subgraph)  
+[ETHOnline project page](https://ethglobal.com/showcase/gamejutsu-0u4en)  
 
 ### Who we are?
 
@@ -79,7 +80,7 @@ The answer is - game state must include the move that led to it, so the game rul
 and reconstruct the details of the transition. GameJutsu team decided to make it explicit and include into the game
 rules
 
-#### Do we really need a state channel based protocol for on-chain games one and why
+#### Do we really need a state channel based protocol for on-chain games and why
 
 Ethereum's community has been promised decentralized games since the year 2015, and is still expecting them to come.
 CryptoKitties were great for their time and, for good or bad, most of today's on-chain games are not-that-remotely
