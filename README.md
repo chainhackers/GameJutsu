@@ -1,12 +1,11 @@
 # GameJutsu
-
-ETHOnline 2022 entry by ChainHackers  
+ 
 https://gamejutsu.app/
 
 [Contracts](https://github.com/ChainHackers/gamejutsu-contracts)  
 [Demo games](https://github.com/ChainHackers/gamejutsu-demos)  
 [Subgraph](https://github.com/ChainHackers/gamejutsu-subgraph)  
-[ETHOnline project page](https://ethglobal.com/showcase/gamejutsu-0u4en)  
+ 
 
 ### Who we are?
 
