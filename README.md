@@ -1,16 +1,23 @@
 # GameJutsu
  
-https://gamejutsu.app/
+https://gamejutsu.app/  
+dev server: https://dev.gamejutsu.app/
 
 [Contracts](https://github.com/ChainHackers/gamejutsu-contracts)  
 [Demo games](https://github.com/ChainHackers/gamejutsu-demos)  
 [Subgraph](https://github.com/ChainHackers/gamejutsu-subgraph)  
+
+[Project Board](https://github.com/orgs/chainhackers/projects/3/views/1)  
+
+[WIP Design](https://www.figma.com/file/Yb10NEuE6IVRPvGVEL8qLZ/%F0%9F%8E%B2-GameJutsu_design?node-id=0%3A1&t=Ov1g0i02RrwV449Y-1)
+
  
 
 ### Who we are?
 
 We are ChainHackers - adventurous developers and creatives who hack everything, i.e. try hands-on every technology
-we like. One could call us blockchain generalists, though at the moment we're mostly exploring the Ethereum ecosystem.
+we like. One could call us blockchain generalists, though at the moment we're mostly exploring the Ethereum ecosystem.  
+[chainhackers.xyz](https://chainhackers.xyz/)  
 
 ### What we built
 
